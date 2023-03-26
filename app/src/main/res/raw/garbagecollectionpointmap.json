@@ -1,0 +1,1434 @@
+[{
+		"State": "AN",
+		"City": "Port Blair",
+		"Address": "123, Model Town",
+		"Pincode": "110001",
+		"FacilityName": "XYZ Recycling Company",
+		"Materials": [
+			"Plastic",
+			"Paper",
+			"Bio-Medical",
+			"E-Waste",
+			"Footware",
+			"Garment",
+			"glass",
+			"Metal",
+			"Organic"
+		],
+		"GPSCoordinates": "40.748440, -73.984559"
+	},
+	{
+		"State": "AP",
+		"City": "Visakhapatnamcv",
+		"Address": "123, Visakhapatnamcv",
+		"Pincode": "110002",
+		"FacilityName": "Visakhapatnam Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "17.6868, 83.2185"
+	},
+	{
+		"State": "AP",
+		"City": "Tirupati",
+		"Address": "123, Tirupati",
+		"Pincode": "110003",
+		"FacilityName": "Tirupati Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "17.6868, 83.2185"
+	},
+	{
+		"State": "AP",
+		"City": "Kakinada",
+		"Address": "123, Kakinada",
+		"Pincode": "110004",
+		"FacilityName": "Kakinada Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "17.6868, 83.2185"
+	},
+	{
+		"State": "AR",
+		"City": "Itanagar",
+		"Address": "123, Itanagar",
+		"Pincode": "110005",
+		"FacilityName": "Itanagar Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "27.0844, 93.6053"
+	},
+	{
+		"State": "AR",
+		"City": "Tawang",
+		"Address": "123, Tawang",
+		"Pincode": "110006",
+		"FacilityName": "Tawang Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "27.0844, 93.6053"
+	},
+	{
+		"State": "AR",
+		"City": "Bomdila",
+		"Address": "123, Bomdila",
+		"Pincode": "110007",
+		"FacilityName": "Bomdila Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "27.0844, 93.6053"
+	},
+	{
+		"State": "AS",
+		"City": "Guwahati",
+		"Address": "123, Guwahati",
+		"Pincode": "110008",
+		"FacilityName": "Guwahati Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "26.1158, 91.7086"
+	},
+	{
+		"State": "AS",
+		"City": "Nagaon",
+		"Address": "123, Nagaon",
+		"Pincode": "110009",
+		"FacilityName": "Nagaon Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "26.1158, 91.7086"
+	},
+	{
+		"State": "AS",
+		"City": "Jorhat",
+		"Address": "123, Jorhat",
+		"Pincode": "110010",
+		"FacilityName": "Jorhat Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "26.1158, 91.7086"
+	},
+	{
+		"State": "BR",
+		"City": "Patna",
+		"Address": "123, Patna",
+		"Pincode": "110011",
+		"FacilityName": "Patna Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "25.5941, 85.1376"
+	},
+	{
+		"State": "BR",
+		"City": "Gaya",
+		"Address": "123, Gaya",
+		"Pincode": "110012",
+		"FacilityName": "Gaya Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "25.5941, 85.1376"
+	},
+	{
+		"State": "BR",
+		"City": "Chhapra",
+		"Address": "123, Chhapra",
+		"Pincode": "110013",
+		"FacilityName": "Chhapra Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "25.5941, 85.1376"
+	},
+	{
+		"State": "CG",
+		"City": "Raipur",
+		"Address": "123, Raipur",
+		"Pincode": "110014",
+		"FacilityName": "Raipur Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "21.2514, 81.6296"
+	},
+	{
+		"State": "CG",
+		"City": "Dhamtari",
+		"Address": "123, Dhamtari",
+		"Pincode": "110015",
+		"FacilityName": "Dhamtari Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "21.2514, 81.6296"
+	},
+	{
+		"State": "CG",
+		"City": "Mahasamund",
+		"Address": "123, Mahasamund",
+		"Pincode": "110016",
+		"FacilityName": "Mahasamund Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "21.2514, 81.6296"
+	},
+	{
+		"State": "CH",
+		"City": "Chandigarh",
+		"Address": "123, Chandigarh",
+		"Pincode": "110017",
+		"FacilityName": "Chandigarh Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment",
+			"Bio-Medical",
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "30.7333, 76.7794"
+	},
+	{
+		"State": "DN",
+		"City": "Dadra and Nagar Haveli",
+		"Address": "123, Dadra and Nagar Haveli",
+		"Pincode": "110018",
+		"FacilityName": "Dadra and Nagar Haveli Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment",
+			"Bio-Medical",
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "20.1809, 73.0169"
+	},
+	{
+		"State": "DD",
+		"City": "Silvassa",
+		"Address": "123, Silvassa",
+		"Pincode": "110019",
+		"FacilityName": "Silvassa Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "20.2753, 73.0073"
+	},
+	{
+		"State": "DD",
+		"City": "Diu",
+		"Address": "123, Diu",
+		"Pincode": "110020",
+		"FacilityName": "Diu Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "20.2753, 73.0073"
+	},
+	{
+		"State": "DD",
+		"City": "Daman",
+		"Address": "123, Daman",
+		"Pincode": "110021",
+		"FacilityName": "Daman Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "20.2753, 73.0073"
+	},
+	{
+		"State": "DL",
+		"City": "Sheikh Sarai",
+		"Address": "123, Sheikh Sarai",
+		"Pincode": "110022",
+		"FacilityName": "Sheikh Sarai Recycling Company",
+		"Materials": [
+			"Paper"
+		],
+		"GPSCoordinates": "28.5363, 77.2218"
+	},
+	{
+		"State": "DL",
+		"City": "Indraprastha",
+		"Address": "123, Indraprastha",
+		"Pincode": "110023",
+		"FacilityName": "Indraprastha Recycling Company",
+		"Materials": [
+			"glass"
+		],
+		"GPSCoordinates": "28.5363, 77.2218"
+	},
+	{
+		"State": "DL",
+		"City": "Janakpuri",
+		"Address": "123, Janakpuri",
+		"Pincode": "110024",
+		"FacilityName": "Janakpuri Recycling Company",
+		"Materials": [
+			"Organic"
+		],
+		"GPSCoordinates": "28.5363, 77.2218"
+	},
+	{
+		"State": "DL",
+		"City": "Loni Road",
+		"Address": "123, Loni Road",
+		"Pincode": "110025",
+		"FacilityName": "Loni Road Recycling Company",
+		"Materials": [
+			"Garment"
+		],
+		"GPSCoordinates": "28.5363, 77.2218"
+	},
+	{
+		"State": "DL",
+		"City": "Sarai Kale Khan",
+		"Address": "123, Sarai Kale Khan",
+		"Pincode": "110026",
+		"FacilityName": "Sarai Kale Khan Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "28.5363, 77.2218"
+	},
+	{
+		"State": "DL",
+		"City": "Mayur Vihar",
+		"Address": "123, Mayur Vihar",
+		"Pincode": "110027",
+		"FacilityName": "Mayur Vihar Recycling Company",
+		"Materials": [
+			"E-Waste"
+		],
+		"GPSCoordinates": "28.5363, 77.2218"
+	},
+	{
+		"State": "DL",
+		"City": "Wazirpur",
+		"Address": "123, Wazirpur",
+		"Pincode": "110028",
+		"FacilityName": "Wazirpur Recycling Company",
+		"Materials": [
+			"Footware"
+		],
+		"GPSCoordinates": "28.5363, 77.2218"
+	},
+	{
+		"State": "DL",
+		"City": "Dwarka",
+		"Address": "123, Dwarka",
+		"Pincode": "110029",
+		"FacilityName": "Dwarka Recycling Company",
+		"Materials": [
+			"Metal"
+		],
+		"GPSCoordinates": "28.5363, 77.2218"
+	},
+	{
+		"State": "DL",
+		"City": "Raja Garden",
+		"Address": "123, Raja Garden",
+		"Pincode": "110030",
+		"FacilityName": "Raja Garden Recycling Company",
+		"Materials": [
+			"Plastic"
+		],
+		"GPSCoordinates": "28.5363, 77.2218"
+	},
+	{
+		"State": "GA",
+		"City": "Panaji",
+		"Address": "123, Panaji",
+		"Pincode": "110031",
+		"FacilityName": "Panaji Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "15.4909, 73.8278"
+	},
+	{
+		"State": "GA",
+		"City": "Margao",
+		"Address": "123, Margao",
+		"Pincode": "110032",
+		"FacilityName": "Margao Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "15.4909, 73.8278"
+	},
+	{
+		"State": "GA",
+		"City": "Ponda",
+		"Address": "123, Ponda",
+		"Pincode": "110033",
+		"FacilityName": "Ponda Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "15.4909, 73.8278"
+	},
+	{
+		"State": "GJ",
+		"City": "Ahmedabad",
+		"Address": "123, Ahmedabad",
+		"Pincode": "110034",
+		"FacilityName": "Ahmedabad Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "23.0225, 72.5714"
+	},
+	{
+		"State": "GJ",
+		"City": "Rajkot",
+		"Address": "123, Rajkot",
+		"Pincode": "110035",
+		"FacilityName": "Rajkot Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "23.0225, 72.5714"
+	},
+	{
+		"State": "GJ",
+		"City": "Bhavnagar",
+		"Address": "123, Bhavnagar",
+		"Pincode": "110036",
+		"FacilityName": "Bhavnagar Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "23.0225, 72.5714"
+	},
+	{
+		"State": "HR",
+		"City": "Ambala",
+		"Address": "123, Ambala",
+		"Pincode": "110037",
+		"FacilityName": "Ambala Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "30.3752, 76.7821"
+	},
+	{
+		"State": "HR",
+		"City": "Jagadhari",
+		"Address": "123, Jagadhari",
+		"Pincode": "110038",
+		"FacilityName": "Jagadhari Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "30.3752, 76.7821"
+	},
+	{
+		"State": "HR",
+		"City": "Panchkula",
+		"Address": "123, Panchkula",
+		"Pincode": "110039",
+		"FacilityName": "Panchkula Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "30.3752, 76.7821"
+	},
+	{
+		"State": "HP",
+		"City": "Kasauli",
+		"Address": "123, Kasauli",
+		"Pincode": "110040",
+		"FacilityName": "Kasauli Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "30.9013, 76.9649"
+	},
+	{
+		"State": "HP",
+		"City": "Indora",
+		"Address": "123, Indora",
+		"Pincode": "110041",
+		"FacilityName": "Indora Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "30.9013, 76.9649"
+	},
+	{
+		"State": "HP",
+		"City": "Kangra",
+		"Address": "123, Kangra",
+		"Pincode": "110042",
+		"FacilityName": "Kangra Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "30.9013, 76.9649"
+	},
+	{
+		"State": "JK",
+		"City": "Srinagar",
+		"Address": "123, Srinagar",
+		"Pincode": "110043",
+		"FacilityName": "Srinagar Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "34.0837, 74.7973"
+	},
+	{
+		"State": "JK",
+		"City": "Jammu",
+		"Address": "123, Jammu",
+		"Pincode": "110044",
+		"FacilityName": "Jammu Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "34.0837, 74.7973"
+	},
+	{
+		"State": "JK",
+		"City": "Anantnag",
+		"Address": "123, Anantnag",
+		"Pincode": "110045",
+		"FacilityName": "Anantnag Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "34.0837, 74.7973"
+	},
+	{
+		"State": "JH",
+		"City": "Ranchi",
+		"Address": "123, Ranchi",
+		"Pincode": "110046",
+		"FacilityName": "Ranchi Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "23.3441, 85.3096"
+	},
+	{
+		"State": "JH",
+		"City": "Hazaribagh",
+		"Address": "123, Hazaribagh",
+		"Pincode": "110047",
+		"FacilityName": "Hazaribagh Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "23.3441, 85.3096"
+	},
+	{
+		"State": "JH",
+		"City": "Daltonganj",
+		"Address": "123, Daltonganj",
+		"Pincode": "110048",
+		"FacilityName": "Daltonganj Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "23.3441, 85.3096"
+	},
+	{
+		"State": "KA",
+		"City": "Kolar",
+		"Address": "123, Kolar",
+		"Pincode": "110049",
+		"FacilityName": "Kolar Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "13.1362, 78.1291"
+	},
+	{
+		"State": "KA",
+		"City": "Bengaluru",
+		"Address": "123, Bengaluru",
+		"Pincode": "110050",
+		"FacilityName": "Bengaluru Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "13.1362, 78.1291"
+	},
+	{
+		"State": "KA",
+		"City": "Tumakuru",
+		"Address": "123, Tumakuru",
+		"Pincode": "110051",
+		"FacilityName": "Tumakuru Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "13.1362, 78.1291"
+	},
+	{
+		"State": "KL",
+		"City": "Thiruvananthapuram",
+		"Address": "123, Thiruvananthapuram",
+		"Pincode": "110052",
+		"FacilityName": "Thiruvananthapuram Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "8.5241, 76.9366"
+	},
+	{
+		"State": "KL",
+		"City": "Kollam",
+		"Address": "123, Kollam",
+		"Pincode": "110053",
+		"FacilityName": "Kollam Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "8.5241, 76.9366"
+	},
+	{
+		"State": "KL",
+		"City": "Pathanamthitta",
+		"Address": "123, Pathanamthitta",
+		"Pincode": "110054",
+		"FacilityName": "Pathanamthitta Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "8.5241, 76.9366"
+	},
+	{
+		"State": "LA",
+		"City": "Kargil",
+		"Address": "123, Kargil",
+		"Pincode": "110055",
+		"FacilityName": "Kargil Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "34.5539, 76.1349"
+	},
+	{
+		"State": "LA",
+		"City": "Leh",
+		"Address": "123, Leh",
+		"Pincode": "110056",
+		"FacilityName": "Leh Recycling Company",
+		"Materials": [
+			"Bio-Medical",
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "34.5539, 76.1349"
+	},
+	{
+		"State": "LD",
+		"City": "Kavaratti",
+		"Address": "123, Kavaratti",
+		"Pincode": "110057",
+		"FacilityName": "Kavaratti Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "10.57, 72.64"
+	},
+	{
+		"State": "LD",
+		"City": "Minicoy",
+		"Address": "123, Minicoy",
+		"Pincode": "110058",
+		"FacilityName": "Minicoy Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "10.57, 72.64"
+	},
+	{
+		"State": "LD",
+		"City": "Kalpeni",
+		"Address": "123, Kalpeni",
+		"Pincode": "110059",
+		"FacilityName": "Kalpeni Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "10.57, 72.64"
+	},
+	{
+		"State": "MP",
+		"City": "Bhopal",
+		"Address": "123, Bhopal",
+		"Pincode": "110060",
+		"FacilityName": "Bhopal Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "23.2599, 77.4126"
+	},
+	{
+		"State": "MP",
+		"City": "Narmadapuram",
+		"Address": "123, Narmadapuram",
+		"Pincode": "110061",
+		"FacilityName": "Narmadapuram Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "23.2599, 77.4126"
+	},
+	{
+		"State": "MP",
+		"City": "Chambal",
+		"Address": "123, Chambal",
+		"Pincode": "110062",
+		"FacilityName": "Chambal Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "23.2599, 77.4126"
+	},
+	{
+		"State": "MH",
+		"City": "Thane",
+		"Address": "123, Thane",
+		"Pincode": "110063",
+		"FacilityName": "Thane Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "19.2183, 72.9781"
+	},
+	{
+		"State": "MH",
+		"City": "Kalyan",
+		"Address": "123, Kalyan",
+		"Pincode": "110064",
+		"FacilityName": "Kalyan Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "19.2183, 72.9781"
+	},
+	{
+		"State": "MH",
+		"City": "Raigad",
+		"Address": "123, Raigad",
+		"Pincode": "110065",
+		"FacilityName": "Raigad Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "19.2183, 72.9781"
+	},
+	{
+		"State": "MN",
+		"City": "Ukhrul",
+		"Address": "123, Ukhrul",
+		"Pincode": "110066",
+		"FacilityName": "Ukhrul Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "25.0954, 94.3617"
+	},
+	{
+		"State": "MN",
+		"City": "Imphal",
+		"Address": "123, Imphal",
+		"Pincode": "110067",
+		"FacilityName": "Imphal Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "25.0954, 94.3617"
+	},
+	{
+		"State": "MN",
+		"City": "Thoubal",
+		"Address": "123, Thoubal",
+		"Pincode": "110068",
+		"FacilityName": "Thoubal Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "25.0954, 94.3617"
+	},
+	{
+		"State": "ML",
+		"City": "Shillong",
+		"Address": "123, Shillong",
+		"Pincode": "110069",
+		"FacilityName": "Shillong Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "25.5788, 91.8933"
+	},
+	{
+		"State": "ML",
+		"City": "Jaintia Hills",
+		"Address": "123, Jaintia Hills",
+		"Pincode": "110070",
+		"FacilityName": "Jaintia Hills Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "25.5788, 91.8933"
+	},
+	{
+		"State": "ML",
+		"City": "Ri-Bhoi",
+		"Address": "123, Ri-Bhoi",
+		"Pincode": "110071",
+		"FacilityName": "Ri-Bhoi Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "25.5788, 91.8933"
+	},
+	{
+		"State": "MZ",
+		"City": "Saiha",
+		"Address": "123, Saiha",
+		"Pincode": "110072",
+		"FacilityName": "Saiha Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "22.4897, 92.9793"
+	},
+	{
+		"State": "MZ",
+		"City": "Aizawl",
+		"Address": "123, Aizawl",
+		"Pincode": "110073",
+		"FacilityName": "Aizawl Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "22.4897, 92.9793"
+	},
+	{
+		"State": "MZ",
+		"City": "Lunglei",
+		"Address": "123, Lunglei",
+		"Pincode": "110074",
+		"FacilityName": "Lunglei Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "22.4897, 92.9793"
+	},
+	{
+		"State": "NL",
+		"City": "Kohima",
+		"Address": "123, Kohima",
+		"Pincode": "110075",
+		"FacilityName": "Kohima Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "25.6751, 94.1086"
+	},
+	{
+		"State": "NL",
+		"City": "Mokokchung",
+		"Address": "123, Mokokchung",
+		"Pincode": "110076",
+		"FacilityName": "Mokokchung Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "25.6751, 94.1086"
+	},
+	{
+		"State": "NL",
+		"City": "Tuensang",
+		"Address": "123, Tuensang",
+		"Pincode": "110077",
+		"FacilityName": "Tuensang Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "25.6751, 94.1086"
+	},
+	{
+		"State": "OR",
+		"City": "Bhubaneswar",
+		"Address": "123, Bhubaneswar",
+		"Pincode": "110078",
+		"FacilityName": "Bhubaneswar Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "20.2961, 85.8245"
+	},
+	{
+		"State": "OR",
+		"City": "Balasore",
+		"Address": "123, Balasore",
+		"Pincode": "110079",
+		"FacilityName": "Balasore Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "20.2961, 85.8245"
+	},
+	{
+		"State": "OR",
+		"City": "Bolangir",
+		"Address": "123, Bolangir",
+		"Pincode": "110080",
+		"FacilityName": "Bolangir Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "20.2961, 85.8245"
+	},
+	{
+		"State": "PY",
+		"City": "Yanam",
+		"Address": "123, Yanam",
+		"Pincode": "110081",
+		"FacilityName": "Yanam Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "16.7272, 82.2176"
+	},
+	{
+		"State": "PY",
+		"City": "Karaikal",
+		"Address": "123, Karaikal",
+		"Pincode": "110082",
+		"FacilityName": "Karaikal Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "16.7272, 82.2176"
+	},
+	{
+		"State": "PY",
+		"City": "Mahe",
+		"Address": "123, Mahe",
+		"Pincode": "110083",
+		"FacilityName": "Mahe Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "16.7272, 82.2176"
+	},
+	{
+		"State": "PB",
+		"City": "Bathinda",
+		"Address": "123, Bathinda",
+		"Pincode": "110084",
+		"FacilityName": "Bathinda Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "30.2110, 74.9455"
+	},
+	{
+		"State": "PB",
+		"City": "Dinanagar",
+		"Address": "123, Dinanagar",
+		"Pincode": "110085",
+		"FacilityName": "Dinanagar Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "30.2110, 74.9455"
+	},
+	{
+		"State": "PB",
+		"City": "Ludhiana",
+		"Address": "123, Ludhiana",
+		"Pincode": "110086",
+		"FacilityName": "Ludhiana Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "30.2110, 74.9455"
+	},
+	{
+		"State": "RJ",
+		"City": "Ajmer",
+		"Address": "123, Ajmer",
+		"Pincode": "110087",
+		"FacilityName": "Ajmer Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "26.4499, 74.6399"
+	},
+	{
+		"State": "RJ",
+		"City": "Alwar",
+		"Address": "123, Alwar",
+		"Pincode": "110088",
+		"FacilityName": "Alwar Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "26.4499, 74.6399"
+	},
+	{
+		"State": "RJ",
+		"City": "Banswara",
+		"Address": "123, Banswara",
+		"Pincode": "110089",
+		"FacilityName": "Banswara Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "26.4499, 74.6399"
+	},
+	{
+		"State": "SK",
+		"City": "Gangtok",
+		"Address": "123, Gangtok",
+		"Pincode": "110090",
+		"FacilityName": "Gangtok Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "27.3314, 88.6138"
+	},
+	{
+		"State": "SK",
+		"City": "Mangan",
+		"Address": "123, Mangan",
+		"Pincode": "110091",
+		"FacilityName": "Mangan Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "27.3314, 88.6138"
+	},
+	{
+		"State": "SK",
+		"City": "Gyalshing",
+		"Address": "123, Gyalshing",
+		"Pincode": "110092",
+		"FacilityName": "Gyalshing Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "27.3314, 88.6138"
+	},
+	{
+		"State": "TN",
+		"City": "Chennai",
+		"Address": "123, Chennai",
+		"Pincode": "110093",
+		"FacilityName": "Chennai Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "13.0827, 80.2707"
+	},
+	{
+		"State": "TN",
+		"City": "Ayanavaram",
+		"Address": "123, Ayanavaram",
+		"Pincode": "110094",
+		"FacilityName": "Ayanavaram Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "13.0827, 80.2707"
+	},
+	{
+		"State": "TN",
+		"City": "Tondiarpet",
+		"Address": "123, Tondiarpet",
+		"Pincode": "110095",
+		"FacilityName": "Tondiarpet Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "13.0827, 80.2707"
+	},
+	{
+		"State": "TS",
+		"City": "Adilabad",
+		"Address": "123, Adilabad",
+		"Pincode": "110096",
+		"FacilityName": "Adilabad Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "19.6641, 78.5320"
+	},
+	{
+		"State": "TS",
+		"City": "Karimnagar",
+		"Address": "123, Karimnagar",
+		"Pincode": "110097",
+		"FacilityName": "Karimnagar Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "19.6641, 78.5320"
+	},
+	{
+		"State": "TS",
+		"City": "Warangal",
+		"Address": "123, Warangal",
+		"Pincode": "110098",
+		"FacilityName": "Warangal Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "19.6641, 78.5320"
+	},
+	{
+		"State": "TR",
+		"City": "Agartala",
+		"Address": "123, Agartala",
+		"Pincode": "110099",
+		"FacilityName": "Agartala Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "23.8315, 91.2868"
+	},
+	{
+		"State": "TR",
+		"City": "Kailasahar",
+		"Address": "123, Kailasahar",
+		"Pincode": "110100",
+		"FacilityName": "Kailasahar Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "23.8315, 91.2868"
+	},
+	{
+		"State": "TR",
+		"City": "Udaipur",
+		"Address": "123, Udaipur",
+		"Pincode": "110101",
+		"FacilityName": "Udaipur Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "23.8315, 91.2868"
+	},
+	{
+		"State": "UP",
+		"City": "Saharanpur",
+		"Address": "123, Saharanpur",
+		"Pincode": "110102",
+		"FacilityName": "Saharanpur Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "29.9680, 77.5552"
+	},
+	{
+		"State": "UP",
+		"City": "Muzaffarnagar",
+		"Address": "123, Muzaffarnagar",
+		"Pincode": "110103",
+		"FacilityName": "Muzaffarnagar Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "29.9680, 77.5552"
+	},
+	{
+		"State": "UP",
+		"City": "Bulandshahar",
+		"Address": "123, Bulandshahar",
+		"Pincode": "110104",
+		"FacilityName": "Bulandshahar Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "29.9680, 77.5552"
+	},
+	{
+		"State": "UK",
+		"City": "Almora",
+		"Address": "123, Almora",
+		"Pincode": "110105",
+		"FacilityName": "Almora Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "29.5892, 79.6467"
+	},
+	{
+		"State": "UK",
+		"City": "Ramnagar",
+		"Address": "123, Ramnagar",
+		"Pincode": "110106",
+		"FacilityName": "Ramnagar Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "29.5892, 79.6467"
+	},
+	{
+		"State": "UK",
+		"City": "Pauri",
+		"Address": "123, Pauri",
+		"Pincode": "110107",
+		"FacilityName": "Pauri Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "29.5892, 79.6467"
+	},
+	{
+		"State": "WB",
+		"City": "Kasba",
+		"Address": "123, Kasba",
+		"Pincode": "110108",
+		"FacilityName": "Kasba Recycling Company",
+		"Materials": [
+			"Paper",
+			"glass",
+			"Organic",
+			"Garment"
+		],
+		"GPSCoordinates": "22.5195, 88.3828"
+	},
+	{
+		"State": "WB",
+		"City": "Beltala",
+		"Address": "123, Beltala",
+		"Pincode": "110109",
+		"FacilityName": "Beltala Recycling Company",
+		"Materials": [
+			"Bio-Medical"
+		],
+		"GPSCoordinates": "22.5195, 88.3828"
+	},
+	{
+		"State": "WB",
+		"City": "Behala",
+		"Address": "123, Behala",
+		"Pincode": "110110",
+		"FacilityName": "Behala Recycling Company",
+		"Materials": [
+			"E-Waste",
+			"Footware",
+			"Metal",
+			"Plastic"
+		],
+		"GPSCoordinates": "22.5195, 88.3828"
+	}
+]
