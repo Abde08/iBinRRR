@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity implements ActivityListener 
         setContentView(R.layout.activity_main);
 
         ArrayList<Activity> arrayList = new ArrayList<>();
-        arrayList.add(new Activity(R.drawable.baseline_image_black_48, "Material Detection", MarterialDetectionActivity.class));
+        arrayList.add(new Activity(R.drawable.baseline_image_black_48, "Garbage Material Detection", MarterialDetectionActivity.class));
         arrayList.add(new Activity(R.drawable.baseline_center_focus_strong_black_48, "Garbage Detection", GarbageDetectionActivity.class));
         CustomViewAdapter customViewAdapter = new CustomViewAdapter(arrayList, this);
         RecyclerView recyclerView = findViewById(R.id.main_recycler_view);
